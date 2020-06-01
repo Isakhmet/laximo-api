@@ -11,7 +11,7 @@
     ],
     "autoload": {
     	"psr-4": {
-    		"LaximoApi\\": "com_guayaquil/guayaquillib/data/"
+    		"LaximoApi\\": "guayaquil/guayaquillib/data/"
     	}
     },
     "require": {}
